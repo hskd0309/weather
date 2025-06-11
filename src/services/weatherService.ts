@@ -1,5 +1,5 @@
 
-const API_BASE_URL = 'https://683e-2405-201-e053-a8ad-844b-221c-1c33-4b07.ngrok-free.app/api';
+const API_BASE_URL = 'https://temporarily-operators-article-arm.trycloudflare.com/api';
 
 export interface WeatherData {
   temperature: number;
