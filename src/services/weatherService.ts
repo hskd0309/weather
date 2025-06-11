@@ -1,5 +1,5 @@
 
-const API_BASE_URL = 'https://vercel.com/new/import?s=https%3A%2F%2Fgithub.com%2FDhinesh0906%2Fweatherrrrrrrrr&hasTrialAvailable=1&showOptionalTeamCreation=false&project-name=weatherrrrrrrrr&framework=vite&totalProjects=1&remainingProjects=1&teamSlug=dhineshs-projects-f9357534&deploymentIds=dpl_6Mo74xfpXBfrDtUSWB1rS9KHhFYt/api';
+const API_BASE_URL = 'https://683e-2405-201-e053-a8ad-844b-221c-1c33-4b07.ngrok-free.app/api';
 
 export interface WeatherData {
   temperature: number;
