@@ -12,7 +12,7 @@ const WEATHER_API_BASE = 'https://api.weatherapi.com/v1';
 app.use(cors());
 app.use(express.json());
 app.use(cors({
-  origin: 'https://weather-orpin-nine.vercel.app',
+  origin: 'https://weather-wheat-delta.vercel.app/',
 }));
 
 // Request logging middleware
