@@ -1,5 +1,5 @@
 
-const API_BASE_URL = 'https://vercel.com/new/import?s=https%3A%2F%2Fgithub.com%2Fhskd0309%2Fweather&hasTrialAvailable=1&showOptionalTeamCreation=false&project-name=weather&framework=vite&totalProjects=1&remainingProjects=1&teamSlug=hskd0309s-projects&deploymentIds=dpl_EF2UTkj8W5j3ZXgaej6RT4f2kVyJ/api';
+const API_BASE_URL = 'https://vercel.com/new/import?s=https%3A%2F%2Fgithub.com%2FDhinesh0906%2Fweatherrrrrrrrr&hasTrialAvailable=1&showOptionalTeamCreation=false&project-name=weatherrrrrrrrr&framework=vite&totalProjects=1&remainingProjects=1&teamSlug=dhineshs-projects-f9357534&deploymentIds=dpl_6Mo74xfpXBfrDtUSWB1rS9KHhFYt/api';
 
 export interface WeatherData {
   temperature: number;
