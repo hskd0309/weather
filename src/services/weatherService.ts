@@ -1,5 +1,5 @@
 
-const API_BASE_URL = 'http://localhost:3001/api';
+const API_BASE_URL = 'https://vercel.com/new/import?s=https%3A%2F%2Fgithub.com%2Fhskd0309%2Fweather&hasTrialAvailable=1&showOptionalTeamCreation=false&project-name=weather&framework=vite&totalProjects=1&remainingProjects=1&teamSlug=hskd0309s-projects&deploymentIds=dpl_EF2UTkj8W5j3ZXgaej6RT4f2kVyJ/api';
 
 export interface WeatherData {
   temperature: number;
